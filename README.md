@@ -1,6 +1,6 @@
-<h1>Olá! Meu nome é Fernando, seja Bem vindo</h1>
+<h1>Olá meu nome é Fernando</h1>
 <section>
-    <h2>Estou atulamente estudanto as linguagens abaixo:</h2>
+    <h2>Estou atulamente estudando as linguagens abaixo:</h2>
     <ul>
         <li><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"</li>
