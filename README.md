@@ -12,11 +12,9 @@
 - [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/FernandoDev15/Pokedex-basic) **Pokedex-basic**
 - [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/FernandoDev15/jogo-dinno) **jogo-dinno**
 ***
-[![](https://github-readme-stats.vercel.app/api?username=FernandoDev15&show_icons=true&theme=merko&include_all_commits=true&count_private=true)]()
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev15&layout=compact&langs_count=16&theme=merko)]()
+![beacons](https://github-readme-stats.vercel.app/api?username=FernandoDev15&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
+![beacons](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev15&layout=compact&langs_count=16&theme=merko)
 
-    <a href="https://beacons.ai/FernandoDev15">
-    <img height="140em" width="48%"  src="https://github-readme-stats.vercel.app/api?username=FernandoDev15&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-    <img height="140em" width-min="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev15&layout=compact&langs_count=16&theme=merko"/>
+   
 
 
