@@ -1,14 +1,20 @@
-<h1>Olá meu nome é Fernando</h1>
+# Olá meu nome é Fernando!
+:school: Sou estudate de Analise e desenvolvimento de sistemas
+***
+**Veja meu perfil no linkedin**
+[![image linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png)](https://www.linkedin.com/in/fernando-rodrigues-gaspari)
+
 <section>
-    <h2>Estou atulamente estudando as linguagens abaixo:</h2>
-    <ul>
+  <ul>
         <li><img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"</li>
         <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></li>
         <li><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></li>
     </ul>
+   
 </section>
+
 <section>
     <h3>IDE que utilizo para o desenvolvimento dos projetos</h3>
     <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"> 
