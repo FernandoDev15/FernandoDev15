@@ -1,10 +1,10 @@
-# Olá meu nome é Fernando!
-:school: Sou estudate de Analise e desenvolvimento de sistemas
+# Olá! Meu nome é Fernando.
+:school: Atualmente sou estudante de graduação na diciplina de Analise e desenvolvimento de sistemas.
 ***
 ### Veja meu perfil no linkedin
 [![image linkedin](https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/291px-LinkedIn_Logo.svg.png)](https://www.linkedin.com/in/fernando-rodrigues-gaspari)
 ***
-### Veja alguns dos meus projetos links abaixo usando as linguagem abaixo:
+### Projetos
 
 - [![KOTLIN](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://github.com/FernandoDev15/BasicKotlin) **BasicKotlin**
 - [![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/FernandoDev15/java-tabuada) **Tabuada**
