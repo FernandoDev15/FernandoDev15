@@ -17,7 +17,7 @@
 <section>
    <figure>
            <div>
-              <a href="fernandodev15.github.io/portfolio/" target="_blank"><img with="25rem" height="300rem" src="https://i.ibb.co/0h5RnR2/img-portfolio.jpg/" alt="portfolio">
+              <a href="https://fernandodev15.github.io/portfolio/" target="_blank"><img with="25rem" height="300rem" src="https://i.ibb.co/0h5RnR2/img-portfolio.jpg/" alt="portfolio">
             </div>
            <figcaption>Portfolio como contato</figcaption>
     </figure>
