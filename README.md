@@ -12,14 +12,13 @@
 - [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/FernandoDev15/Pokedex-basic) **Pokedex-basic**
 - [![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/FernandoDev15/jogo-dinno) **jogo-dinno**
 ***
-### Demostração do projeto
-
+### SITE PORTFOLIO
 <section>
    <figure>
            <div>
               <a href="https://fernandodev15.github.io/portfolio/" target="_blank"><img with="25rem" height="300rem" src="https://i.ibb.co/0h5RnR2/img-portfolio.jpg/" alt="portfolio">
             </div>
-           <figcaption>Portfolio como contato</figcaption>
+           <figcaption>Página com demostração de alguns projetos e meu contato.</figcaption>
     </figure>
 </section>
                  
