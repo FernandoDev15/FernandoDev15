@@ -17,7 +17,7 @@
 <section>
    <figure>
            <div>
-              <a href="https://fernandodev15.github.io/pageCar" target="_blank"><img with="25rem" height="300rem" src="https://github.com/FernandoDev15/FernandoDev15/assets/102058133/b61df9c7-7615-4c02-8ce9-f9697c2d2549" alt="projectCar">
+              <a href="https://fernandodev15.github.io/pageCar" target="_blank"><img with="25rem" height="300rem" src="https://ibb.co/V26cLc9/" alt="portfolio">
             </div>
            <figcaption>Projeto utilizando boostrap para fins acadêmico</figcaption>
     </figure>
