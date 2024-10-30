@@ -24,6 +24,9 @@
                  
 ***  
 <span>
-   <img src="https://github-readme-stats.vercel.app/api?username=FernandoDev15&show_icons=true&theme=merko&include_all_commits=true&count_private=true" width="400rem">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev15&layout=compact&langs_count=16&theme=merko" width="300rem">
+   <img src="https://github-readme-stats.vercel.app/api?username=FernandoDev15&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="400rem">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev15&layout=compact&langs_count=16&theme=radical" width="300rem">
 </span>
+
+
+
