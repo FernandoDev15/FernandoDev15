@@ -16,19 +16,14 @@
 <section>
    <figure>
            <div>
-              <a href="https://fernandodev15.github.io/portfolio/" target="_blank"><img with="25rem" height="300rem" src="https://i.ibb.co/0h5RnR2/img-portfolio.jpg/" alt="portfolio">
+              <a href="https://fernandodev15.github.io/portfolio/"><img src="https://i.ibb.co/jhXc3T6/img-portfolio.jpg/" alt="portfolio" width=400rem>
             </div>
            <figcaption>Página com demostração de alguns projetos e meu contato.</figcaption>
     </figure>
 </section>
                  
-***             
-![beacons](https://github-readme-stats.vercel.app/api?username=FernandoDev15&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
-![beacons](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev15&layout=compact&langs_count=16&theme=merko)
-
-
-
-
-   
-
-
+***  
+<span>
+   <img src="https://github-readme-stats.vercel.app/api?username=FernandoDev15&show_icons=true&theme=merko&include_all_commits=true&count_private=true" width="400rem">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoDev15&layout=compact&langs_count=16&theme=merko" width="300rem">
+</span>
